@@ -1,3 +1,1 @@
-# Посмотри в окно
-
-Учебный проект: вёрстка страницы по макету (HTML/CSS).
+https://github.com/Sofia-Kapitanova/posmotri-v-okno-fd.git
